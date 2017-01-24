@@ -1,3 +1,31 @@
+# _Template_
+
+#### _Angular 2 app for..._
+
+#### By _**Lina Shadrach**_
+
+## Description.
+__
+
+
+## Prerequisites
+
+You will need the following things properly installed on your computer.
+
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/) (with NPM)
+* [Bower](https://bower.io/)
+* [Angular](https://angularjs.org/)
+* [angular-cli](https://github.com/angular/angular-cli)
+
+
+## Installation
+
+* `git clone <https://github.com/LinaShadrach/meal-tracker-angular.git>`
+* `cd meal-tracker-angular`
+* `npm install`
+* `bower install`
+
 # TemplateAngularCli
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
